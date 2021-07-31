@@ -1,4 +1,6 @@
 # UM-line
+The project hasn't been uploaded yet because I'm still a student and all projects made under the school's roof technically belongs to the school.
+as soon as I am done, I'll will tweak it and upload.
 UM-line is my final year project. it is a social media application built with MERN stack. 
 
 
